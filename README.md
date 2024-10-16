@@ -1,7 +1,7 @@
 # Crowdfunding_Analysis
 
 * Campaigns with a goal between $15,000 and $35,000 were the most likely to succeed
-* Theater was the most category
+* Theatre most common campaign category with about twice as many campaigns as the next most common 
 * Technology, at 67%, had the highest rate of successfully funded campaigns
 
 ## Success Rate by Goal
